@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jgittest.iml" filepath="$PROJECT_DIR$/.idea/modules/jgittest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jgittest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jgittest_main.iml" group="jgittest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jgittest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jgittest_test.iml" group="jgittest" />
+    </modules>
+  </component>
+</project>
