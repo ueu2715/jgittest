@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sshtools:j2ssh-maverick:1.5.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/caches/modules-2/files-2.1/com.sshtools/j2ssh-maverick/1.5.2/728cdea0050cea3b4f074dd8b1fad147f8479558/j2ssh-maverick-1.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/caches/modules-2/files-2.1/com.sshtools/j2ssh-maverick/1.5.2/7d36d8e64ee0e5181657c4b4e1fcbfd274cb17dc/j2ssh-maverick-1.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

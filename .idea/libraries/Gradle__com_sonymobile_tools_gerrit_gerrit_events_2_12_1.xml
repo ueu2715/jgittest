@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sonymobile.tools.gerrit:gerrit-events:2.12.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/caches/modules-2/files-2.1/com.sonymobile.tools.gerrit/gerrit-events/2.12.1/bf7a736889d63d9973e4452a320d22bd40d5d7a5/gerrit-events-2.12.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/caches/modules-2/files-2.1/com.sonymobile.tools.gerrit/gerrit-events/2.12.1/671db4b5b8f87acd27e0f6ac6e728e9194eea901/gerrit-events-2.12.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
