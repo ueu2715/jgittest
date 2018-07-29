@@ -79,7 +79,7 @@ public class TestC {
 
         int i = 0;
         int r = 100; //半径
-        int v = 50;  //走一圈的步数
+        int v = 50;  //走一圈的
 
         while(true){
             i = (i+1)%(v*2);
